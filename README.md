@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-🎓 BE Student in Artificial Intelligence & Data Science  
-🏫 Dr. D. Y. Patil Institute of Technology, Pimpri Pune  
+🎓 BE Student of Artificial Intelligence & Data Science  
+🏫 Dr D. Y. Patil Institute of Technology, Pimpri, Pune  
 🌱 Currently learning **Machine Learning, Deep Learning, NLP, MERN Stack**  
 🔬 Interested in **AI Research, Precision Agriculture, Data Science, and Intelligent Systems**  
 🚁 Working on:
@@ -48,9 +48,8 @@
 ## 🏆 Achievements
 
 🏅 Oasis Infobyte Data Science Internship  
-📄 IEEE Conference Paper Presenter  
-🧠 Research Enthusiast in AI & Sustainable Agriculture  
-📚 Coursera Learner with Financial Aid Certifications  
+📄 Successfully Published IEEE Conference Paper   
+🧠 Research Enthusiast in AI & Sustainable Agriculture   
 ---
 
 

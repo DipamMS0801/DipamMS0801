@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | Data Science Enthusiast | AI Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+Data+Scientist;AI+Research+Enthusiast;MERN+%2B+Machine+Learning+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+Data+Scientist;AI+Research+Enthusiast;+%2B+Machine+Learning+Developer;" alt="Typing SVG" />
 </p>
 
 ---

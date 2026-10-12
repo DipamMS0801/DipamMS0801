@@ -11,7 +11,7 @@
 
 🎓 BE Student of Artificial Intelligence & Data Science  
 🏫 Dr D. Y. Patil Institute of Technology, Pimpri, Pune  
-🌱 Currently learning **Machine Learning, Deep Learning, NLP, MERN Stack**  
+🌱 Currently learning **Machine Learning, Deep Learning, NLP**  
 🔬 Interested in **AI Research, Precision Agriculture, Data Science, and Intelligent Systems**  
 🚁 Working on:
 - AI-Powered Drone for Pest Detection & Crop Health Analysis
